@@ -1,0 +1,1 @@
+// Link : https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-multiplication/?fbclid=IwAR3smwwGrUMpcuKQqwjh4Y2e6jFhr-NjJL0ElOK0FKtrnbkRLLKGUI3NVBY
