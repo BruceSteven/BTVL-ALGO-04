@@ -3,7 +3,6 @@
 /* Author - Nguyen Quoc Khanh */
 #include <bits/stdc++.h>
 using namespace std;
-#define Love_Nga ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 int T,N,M,A,B;
 bool ok;
 // DFS
@@ -56,7 +55,7 @@ void solve() {
 	else cout << "NAO" << endl;
 }
 /*-------------------------------------------------------------------------*/
-int main() { Love_Nga
+int main() { 
 	scanf("%d",&T);
 	while (T--)
 	{
